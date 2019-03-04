@@ -1,4 +1,4 @@
-FROM alpine:3.8
+FROM alpine:3.9
 LABEL maintainer="alexandre.degurse@gmail.com"
 ARG SCW_VERSION=v1.17
 ARG SCW_UID=1337
