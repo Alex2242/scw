@@ -1,5 +1,7 @@
 # Docker image for Scaleway CLI
 
+[![](https://images.microbadger.com/badges/image/alex2242/scw.svg)](https://microbadger.com/images/alex2242/scw) [![](https://images.microbadger.com/badges/version/alex2242/scw.svg)](https://microbadger.com/images/alex2242/scw)
+
 ## Usage
 
 A container can be started using:
